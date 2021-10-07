@@ -8,8 +8,9 @@
 
 
 > ##### contact me on :
-> [linkedIn](https://www.linkedin.com/in/chritian-adusei-814b9719b)
-> [twitter](https://twitter.com/kordaae?s=09)
-> [twitch](https://www.twitch.tv/kordaae)
-> [reddit](https://www.reddit.com/u/Kordaae?utm_medium=android_app&utm_source=share)
-> whatsapp: +233548434754
+_______________________
+> - [linkedIn](https://www.linkedin.com/in/chritian-adusei-814b9719b)
+> - [twitter](https://twitter.com/kordaae?s=09)
+> - [twitch](https://www.twitch.tv/kordaae)
+> - [reddit](https://www.reddit.com/u/Kordaae?utm_medium=android_app&utm_source=share)
+> - whatsapp: +233548434754
