@@ -4,8 +4,18 @@
 > Majoring **BSc telecommunications engineering** at **KNUST**
 > from **2018** to **2022**.
 >
->
->
+> ## SKILLS
+>   ### GAME DEVELOPMENT AND 3D 
+>       - UNREAL ENGINE 
+>       - BLENDER
+>       - C#
+>   ### WEB DEVELOPMENT
+>       - JAVA SCRIPT 
+>       - NODE.JS
+>       - REACT.JS
+>       - DJANGO
+>       - CSS
+>       - HTML 
 >
 > ##### contact me on :
 > - [linkedIn](https://www.linkedin.com/in/chritian-adusei-814b9719b)
